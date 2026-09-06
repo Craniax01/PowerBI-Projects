@@ -1,0 +1,16 @@
+as_of_date,as_of_time,cumulative_deaths,reported_missing,reporting_authority,source_id
+2026-08-26,evening,157,,Prime Minister's Office,S2
+2026-08-27,08:15,165,,Nepal Police,S2
+2026-08-27,13:30,270,,Nepal Police,S2
+2026-08-27,17:00,359,,Nepal Police,S2
+2026-08-28,12:00,489,,Nepal Police,S2
+2026-08-28,16:06,538,,NDRRMA,S2
+2026-08-29,09:00,734,,NDRRMA,S2
+2026-08-30,14:00,768,,Nepal Police,S2
+2026-08-31,,903,4247,NDRRMA,S6
+2026-09-02,16:14,1114,,Onlinekhabar,S2
+2026-09-03,22:21,1259,,Nepalnews,S2
+2026-09-04,12:30,1287,5083,NDRRMA,S1
+2026-09-04,19:59,1294,,Onlinekhabar,S2
+2026-09-04,,,8898,Khabarhub,S2
+2026-09-05,07:34,1342,8898,Nepalnews,S2

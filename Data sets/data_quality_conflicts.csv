@@ -1,0 +1,10 @@
+metric,value_a,source_a_id,value_b,source_b_id,likely_explanation
+Districts affected,6,S3,8,S5,UNDP counts districts with assessed damage; Direct Relief counts districts along the affected river corridor.
+Hydropower capacity lost (MW),431.1,S3,901,S5,431 MW is capacity removed from the live grid; 901 MW appears to include projects under construction.
+Hydropower capacity lost (MW),431.1,S3,748,S4,CARE counts 14 hydro and solar projects affected; UNDP counts only stations stopped.
+Motorable bridges destroyed,33,S1,37,S8,Official NDRRMA count vs secondary analysis; likely different cut-off times.
+Bridges destroyed (all types),101 (33+68),S1,32,S4,CARE figure predates the full suspension-bridge assessment.
+People affected,84270,S3,1600000,S6,UNDP counts directly affected in assessed wards; Convoy of Hope appears to count population of all affected districts.
+Injured,5300,S1,466,S4,NDRRMA counts all people who received medical treatment; CARE reports a narrower injury count.
+Missing,5083,S1,8898,S2,Large divergence -- missing-persons lists include unreconciled duplicate reports and are being deduplicated.
+Total deaths,1287 (04 Sep 12:30),S1,1342 (05 Sep),S2,Different bulletin times; toll was still rising.

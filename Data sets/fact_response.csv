@@ -1,0 +1,14 @@
+metric,value,unit,as_of_date,source_id
+People rescued,13013,count,2026-09-04,S1
+People rescued,12000,count,2026-09-03,S5
+People rescued by helicopter,3000,count,2026-09-03,S6
+Injured receiving medical treatment,5300,count,2026-09-04,S1
+Injured,466,count,2026-09-04,S4
+Households needing immediate relief,10000,count,2026-09-03,S5
+Households needing emergency shelter,10000,count,2026-09-04,S4
+People affected,84270,count,2026-09-04,S3
+People affected,1600000,count,2026-09-03,S6
+People needing immediate aid,90000,count,2026-09-03,S6
+Foreign nationals missing,583,count,2026-09-04,S1
+Bodies identified and released,96,count,2026-09-04,S1
+Hydropower workers unaccounted for,947,count,2026-09-04,S8

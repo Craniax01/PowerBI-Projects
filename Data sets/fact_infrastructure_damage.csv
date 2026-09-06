@@ -1,0 +1,18 @@
+category,asset,value,unit,as_of_date,source_id
+Housing,Private homes destroyed,7570,count,2026-09-04,S1
+Housing,Buildings damaged (formally assessed),2359,count,2026-09-04,S3
+Housing,Homes needing repair,20000,count,2026-09-03,S6
+Public,Government buildings damaged or destroyed,48,count,2026-09-04,S1
+Education,Schools damaged or destroyed,18,count,2026-09-04,S1
+Health,Health facilities damaged,7,count,2026-09-04,S1
+Health,Health posts fully destroyed,3,count,2026-08-29,S7
+Transport,Road completely destroyed,55,km,2026-09-04,S1
+Transport,Motorable bridges destroyed,33,count,2026-09-04,S1
+Transport,Suspension bridges destroyed,68,count,2026-09-04,S1
+Energy,Hydropower capacity removed from grid,431.1,MW,2026-09-04,S3
+Energy,Hydropower stations stopped,11,count,2026-09-04,S3
+Energy,Solar plants stopped,1,count,2026-09-04,S3
+Energy,Projects under construction damaged,15,count,2026-09-04,S3
+Energy,Planned capacity of damaged projects,470,MW,2026-09-04,S3
+Debris,Total debris generated,2200000,tonnes,2026-09-04,S3
+Debris,Building debris,556200,tonnes,2026-09-04,S3
