@@ -1,0 +1,10 @@
+source_id,source_name,url,as_of_date,source_type,publisher
+S1,"NDRRMA bulletin 4 Sep 2026 12:30, via The Kathmandu Post",https://kathmandupost.com/national/2026/09/04/nepal-flood-death-toll-reaches-1-287,2026-09-04,Official,National Disaster Risk Reduction and Management Authority
+S2,"Nepal Police bulletin 5 Sep 2026, via Nepal Disaster Update Live",https://nepaldisasterupdatelive.nxtimaginelabs.com/,2026-09-05,Official (aggregated),Nepal Police
+S3,UNDP press release on debris and energy damage,https://www.undp.org/crisis/press-releases/nepal-floods-hit-vulnerable-communities-undp-estimates-2point2-million-tonnes-debris,2026-09-04,UN agency,United Nations Development Programme
+S4,CARE emergency response update,https://www.care.org/news-and-stories/nepal-flash-floods-2026-care-emergency-response/,2026-09-04,INGO,CARE International
+S5,Direct Relief emergency page (figures as of 3 Sep 2026),https://www.directrelief.org/emergency/nepal-floods-2026/,2026-09-03,INGO,Direct Relief
+S6,Convoy of Hope response update log,https://convoyofhope.org/disaster-relief/nepal-flash-flooding-26/,2026-09-03,INGO,Convoy of Hope
+S7,"WHO Nepal emergency page, 2026 Rasuwa flash floods",https://www.who.int/nepal/emergencies/2026-rasuwa-flash-floods,2026-08-29,UN agency,World Health Organization
+S8,Mappr geographic analysis of the Rasuwagadhi flood,https://www.mappr.co/nepal-flash-flood-rasuwagadhi/,2026-09-04,Secondary / analysis,Mappr
+S9,"National Population and Housing Census 2021 (NSO National Report, Table 15)",https://amarnepal.com/districts,2021-11-25,Official statistics,"National Statistics Office, Nepal"
